@@ -105,7 +105,7 @@ public class TrabajoFinalCaC {
     public static void imprimirSaludo() {
         System.out.println("¡Muchas gracias por confiar en Nuevo Banco Concordia!");
         System.out.println("*************************************");
-        System.out.println("Grupo 18 Juan Pablo Quinteros");
+        System.out.println("Grupo 18 Juan Pablo Quinteros - Rodolfo Pucich - Mercedes Colman");
         System.out.println("*************************************");
     }
 
